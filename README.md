@@ -1,0 +1,1 @@
+An offline Finnish-English dictionary app using dictionary content from Wiktionary and example sentences from Tatoeba. Very much in its infancy. Ultimately uses a SQLite 3 database as the search backend with its full text search support.
